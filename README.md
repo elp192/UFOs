@@ -13,7 +13,7 @@ Following tools, programming language and resources are used to build the webpag
   - Visual studio code
   - Chrome developer tools
 ## Results
-### How to Use the webpage?
+### How to Use the Webpage?
 **Initialize the webpage**<br>
 To initialize the page, click on navbar at the top left (UFOs Sightings):
 
@@ -41,3 +41,8 @@ To filter by multiple items enter items in the boxes and press enter:
 <p align="center">
 </p>
 
+## Summary
+For future work, the following features can be added to improve the webpage: 
+- To clean the item and enter the new one, the user can click on navbar at the top left or press the delete button on computer keyboard, which is relatively unhandy. The clean button can be added below each field that helps the user to erase each item easier.
+- If the user enters a capital letter for each item, the filter cannot be applied correctly. To overcome this drawback, an option can be added to lower all the letters that the user enters.
+- If the user does not know which item can be entered, there is no menu for item selection. So, the user should select items from the table. A dropdown menu can be added to help users in this regard.
