@@ -33,4 +33,11 @@ To filter by an item, enter an item in a related box and press enter:
 <p align="center">
 </p>
 
+**Filter by multiple items (i.e., date, country, city, state, and shape)**<br>
+To filter by multiple items enter items in the boxes and press enter:
+<p img align="center" width="100%">
+<img width="500" alt="filter_date_state" src="https://user-images.githubusercontent.com/85843401/132889207-5d141f8e-1e40-4aba-8c52-dd3e8c423625.png">
+<figcaption>Figure 3: Filter by date and state.</figcaption></figure/>
+<p align="center">
+</p>
 
