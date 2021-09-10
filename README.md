@@ -23,3 +23,14 @@ To initialize the page, click on navbar at the top left (UFOs Sightings):
 <p align="center">
 </p>
 
+**Filter by an item (i.e., date, country, city, state, or shape)** <br>
+To filter by an item, enter an item in a related box and press enter:
+
+<p img align="center" width="100%">
+<img width="479" alt="filter_date" src="https://user-images.githubusercontent.com/85843401/132889165-578d5a0a-2f4c-4221-b8f5-038157949834.png">
+<img width="482" alt="filter_city" src="https://user-images.githubusercontent.com/85843401/132889334-eeb87039-cd7f-41e7-9ae5-5191b4574501.png">
+<figcaption>Figure 2: Filter by left) date, rigth) city.</figcaption></figure/>
+<p align="center">
+</p>
+
+
