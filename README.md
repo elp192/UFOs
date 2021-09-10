@@ -12,3 +12,14 @@ Following tools, programming language and resources are used to build the webpag
 - Software:
   - Visual studio code
   - Chrome developer tools
+## Results
+### How to Use the webpage?
+**Initialize the webpage**<br>
+To initialize the page, click on navbar at the top left (UFOs Sightings):
+
+<p img align="center" width="100%">
+<img width="500" alt="initialize_webpage" src="https://user-images.githubusercontent.com/85843401/132889120-773778d2-cd28-4d5e-9e05-55944de5e29b.png">
+<figcaption>Figure 1: Initialize the webpage .</figcaption></figure/>
+<p align="center">
+</p>
+
